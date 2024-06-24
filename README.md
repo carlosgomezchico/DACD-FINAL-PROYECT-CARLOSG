@@ -165,10 +165,10 @@ This application incorporates the Publisher/Subscriber pattern for working with 
 ### GitHub repositories that have been used as a reference:
 
 
-[buckpal by thombergs](https://github.com/thombergs/buckpal): This repository is an example application for implementing Clean Architecture in Java. It demonstrates how to structure a Java application following Clean Architecture principles.
+[buckpal by thombergs](https://github.com/thombergs/buckpal)
 
 
-## Design Principles
+## Design Principles:
 
  -Single Responsibility
 
